@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "SpaceShooter",
+  "id": "dccb3765-4abd-4bbe-8b0d-1fed80b499d3",
+  "version": "2.4.3",
+  "isNew": false
+}
